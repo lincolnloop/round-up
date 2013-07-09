@@ -9,3 +9,4 @@
 * [Cricket (Russell Keith-Magee)](http://freakboy3742.github.io/cricket/)
 * [Facts and myths about Python names and values (Ned Batchelder)](http://nedbatchelder.com/text/names.html)
 * [stevedore (Doug Hellmann)](http://doughellmann.com/2013/07/stevedore-0-10.html)
+* [HTTPretty (Gabriel Falcao)](https://github.com/gabrielfalcao/HTTPretty)
