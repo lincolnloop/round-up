@@ -11,3 +11,4 @@
 * [stevedore (Doug Hellmann)](http://doughellmann.com/2013/07/stevedore-0-10.html)
 * [HTTPretty (Gabriel Falcao)](https://github.com/gabrielfalcao/HTTPretty)
 * [django-dumper (Saul Shanabrook)](https://github.com/saulshanabrook/django-dumper)
+* [Why mobile web apps are slow (Drew Crawford)](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
