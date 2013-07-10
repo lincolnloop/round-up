@@ -12,3 +12,4 @@
 * [HTTPretty (Gabriel Falcao)](https://github.com/gabrielfalcao/HTTPretty)
 * [django-dumper (Saul Shanabrook)](https://github.com/saulshanabrook/django-dumper)
 * [Why mobile web apps are slow (Drew Crawford)](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
+* [Building a Hacker News Clone in Django: Part 3 (Arun Ravindran)](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-3/?src=reddit)
