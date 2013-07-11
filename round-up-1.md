@@ -15,4 +15,4 @@
 * [Why Pisces? (Justin Abrahms)](http://justin.abrah.ms/python/why_pisces.html)
 * [My experiences with Django and Python 3 (Daniel Greenfeld)](http://pydanny.com/experiences-with-django-python3.html)
 
-## Round up 1 is recorded! Look for the final release early next week.
+### Round up 1 is done! Look for the final release early next week.
