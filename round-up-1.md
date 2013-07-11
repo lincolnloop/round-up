@@ -4,7 +4,7 @@
 
 * [django-readonly-site (Ross Poulton)](http://www.rossp.org/blog/2013/jul/02/django-readonly-site/)
 * [Debugging Python code in a browser with wdb debugger (Piotr Maliński)](http://www.rkblog.rk.edu.pl/w/p/debugging-python-code-browser-wdb-debugger/)
-* [Depuability of Python web applications (Bruno Renié)](https://speakerdeck.com/brutasse/deployability-of-python-web-applications)
+* [Deployability of Python web applications (Bruno Renié)](https://speakerdeck.com/brutasse/deployability-of-python-web-applications)
 * [Highlights of PyCon AU 2013 (Graeme Cross)](http://www.curiousvenn.com/?p=425)
 * [Cricket (Russell Keith-Magee)](http://freakboy3742.github.io/cricket/)
 * [Facts and myths about Python names and values (Ned Batchelder)](http://nedbatchelder.com/text/names.html)
