@@ -14,3 +14,4 @@
 * [Why mobile web apps are slow (Drew Crawford)](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
 * [Building a Hacker News Clone in Django: Part 3 (Arun Ravindran)](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-3/?src=reddit)
 * [Why Pisces? (Justin Abrahms)](http://justin.abrah.ms/python/why_pisces.html)
+* [My experiences with Django and Python 3 (Daniel Greenfield)](http://pydanny.com/experiences-with-django-python3.html)
