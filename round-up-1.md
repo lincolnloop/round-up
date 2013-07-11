@@ -7,7 +7,6 @@
 * [Deployability of Python web applications (Bruno Renié)](https://speakerdeck.com/brutasse/deployability-of-python-web-applications)
 * [Highlights of PyCon AU 2013 (Graeme Cross)](http://www.curiousvenn.com/?p=425)
 * [Cricket (Russell Keith-Magee)](http://freakboy3742.github.io/cricket/)
-* [Facts and myths about Python names and values (Ned Batchelder)](http://nedbatchelder.com/text/names.html)
 * [stevedore (Doug Hellmann)](http://doughellmann.com/2013/07/stevedore-0-10.html)
 * [HTTPretty (Gabriel Falcao)](https://github.com/gabrielfalcao/HTTPretty)
 * [django-dumper (Saul Shanabrook)](https://github.com/saulshanabrook/django-dumper)
