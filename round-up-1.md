@@ -15,4 +15,8 @@
 * [Why Pisces? (Justin Abrahms)](http://justin.abrah.ms/python/why_pisces.html)
 * [My experiences with Django and Python 3 (Daniel Greenfeld)](http://pydanny.com/experiences-with-django-python3.html)
 
+## Music
+
+* This episode's theme song is "[As Colorful as Ever](http://freemusicarchive.org/music/Broke_For_Free/Layers/As_Colorful_As_Ever)" by [Broke for Free](http://brokeforfree.com/)
+
 ### Round up 1 is done! Look for the final release early next week.
