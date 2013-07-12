@@ -1,5 +1,7 @@
 # Django Round-Up #1
 
+### Round up 1 is done! Look for the final release early next week.
+
 ## Articles
 
 * [django-readonly-site (Ross Poulton)](http://www.rossp.org/blog/2013/jul/02/django-readonly-site/)
@@ -18,5 +20,3 @@
 ## Music
 
 * This episode's theme song is "[As Colorful as Ever](http://freemusicarchive.org/music/Broke_For_Free/Layers/As_Colorful_As_Ever)" by [Broke for Free](http://brokeforfree.com/)
-
-### Round up 1 is done! Look for the final release early next week.
