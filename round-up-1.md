@@ -1,6 +1,10 @@
 # Django Round-Up #1
 
-### Round up 1 is done! Look for the final release early next week.
+*July 16th, 2013*
+
+### Download the MP3
+
+[MP3 - 1:00:15 - 28.9 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django Round-Up 1.mp3)
 
 ## Articles
 
