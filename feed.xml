@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Django Round-Up</title>
+        <link>http://lincolnloop.github.io/round-up/</link>
+        <language>en-us</language>
+        <copyright>&#x2117; &amp; &#xA9; 2013 Lincoln Loop</copyright>
+        <itunes:subtitle>A podcast by about the Django web framework, Python, and web development</itunes:subtitle>
+        <itunes:author>Lincoln Loop</itunes:author>
+        <itunes:summary>This is a podcast hosted by Kenneth Love and Brandon Konkle from Lincoln Loop that highlights recent articles and projects in the Django community. We love talking about web development, so our podcast focuses on casual conversations as we cover the latest blog posts and project releases.</itunes:summary>
+        <description>This is a podcast hosted by Kenneth Love and Brandon Konkle from Lincoln Loop that highlights recent articles and projects in the Django community. We love talking about web development, so our podcast focuses on casual conversations as we cover the latest blog posts and project releases.</description>
+        <itunes:owner>
+            <itunes:name>Lincoln Loop</itunes:name>
+            <itunes:email>info@lincolnloop.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://lincolnloop.github.io/round-up/images/logo.png" />
+        <itunes:category text="Technology">
+            <itunes:category text="Tech News"/>
+        </itunes:category>
+        <item>
+            <title>Django Round-Up #1</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>For our first official podcast, we were joined by Daniel Greenfeld!</itunes:summary>
+            <description>For our first official podcast, we were joined by Daniel Greenfeld!</description>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <guid>django-round-up-1</guid>
+            <link>https://github.com/lincolnloop/round-up/blob/master/round-up-1.md</link>
+            <pubDate>Tue, 16 Jul 2012 18:00:00 GMT</pubDate>
+            <itunes:duration></itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+    </channel>
+</rss>
