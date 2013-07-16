@@ -8,3 +8,4 @@
 * [Profiling Django REST Framework (Tom Christie)](http://dabapps.com/blog/api-performance-profiling-django-rest-framework/)
 * [Smiley 0.3.0 - Python application tracer (Doug Hellmann)](http://doughellmann.com/2013/07/smiley-0-3-0-python-application-tracer.html) 
 * [DjStatic (Kenneth Reitz)](https://github.com/kennethreitz/dj-static)
+* [Quine Relay (Yusuke Endoh)](https://github.com/mame/quine-relay)
