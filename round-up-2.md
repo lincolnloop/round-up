@@ -12,3 +12,10 @@
 Streeter)](https://github.com/streeter/django-db-readonly)
 * [Factory Boy as an Alternative to Django Testing Fixtures (Mark Lavin)](http://www.caktusgroup.com/blog/2013/07/17/factory-boy-alternative-django-testing-fixtures/)
 * [Quine Relay (Yusuke Endoh)](https://github.com/mame/quine-relay)
+
+## Notes
+* Mention #lincolnloop on irc.freenode.net
+
+
+## Guest
+Katie Cunningham, aka kcunning. Wrote a book on accessibility, working on a "learn python in 24 hours" book. Inhaled a lot of nail polish fumes.
