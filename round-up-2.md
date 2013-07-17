@@ -9,3 +9,4 @@
 * [Smiley 0.3.0 - Python application tracer (Doug Hellmann)](http://doughellmann.com/2013/07/smiley-0-3-0-python-application-tracer.html) 
 * [DjStatic (Kenneth Reitz)](https://github.com/kennethreitz/dj-static)
 * Other readonly projects: [django-readonly (Jakub Zalewski)](https://bitbucket.org/zalew/django-readonly) and [django-db-readonly (Chris Streeter)](https://github.com/streeter/django-db-readonly)
+* [Factory Boy as an Alternative to Django Testing Fixtures](http://www.caktusgroup.com/blog/2013/07/17/factory-boy-alternative-django-testing-fixtures/)
