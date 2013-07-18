@@ -15,6 +15,7 @@ Streeter)](https://github.com/streeter/django-db-readonly)
 
 ## Notes
 * Mention #lincolnloop on irc.freenode.net
+* Mention djangodash.com is 9/28 - 9/29
 
 
 ## Guest
