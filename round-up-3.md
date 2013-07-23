@@ -7,6 +7,7 @@
 * [Khan Academy Python Style Guide](https://sites.google.com/a/khanacademy.org/forge/for-developers/styleguide/python)
 * [Setup.py vs Requirements.txt (Donald Stufft)](https://caremad.io/blog/setup-vs-requirements/)
 * [Tango (Tim Baxter)](http://tbaxter.github.io/Tango/)
+* [Mailbox (Martin Rusev)](https://github.com/martinrusev/mailbox)
 
 ## Handy other things
 * [Postman](http://www.getpostman.com/)
