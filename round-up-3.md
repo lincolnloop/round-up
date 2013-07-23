@@ -6,10 +6,12 @@
 * [How many instructions in a print statement? (Ned Batchelder)](http://nedbatchelder.com/blog/201307/how_many_instructions_in_a_print_statement.html)
 * [Khan Academy Python Style Guide](https://sites.google.com/a/khanacademy.org/forge/for-developers/styleguide/python)
 * [Setup.py vs Requirements.txt (Donald Stufft)](https://caremad.io/blog/setup-vs-requirements/)
+* [Tango (Tim Baxter)](http://tbaxter.github.io/Tango/)
 
 ## Handy other things
 * [Postman](http://www.getpostman.com/)
 * [Mock Response](http://mock.isssues.com/)
+* [Big-O Notation Explained (Justin Abrahms)](http://justin.abrah.ms/computer-science/big-o-notation-explained.html)
 
 
 ## Guest
