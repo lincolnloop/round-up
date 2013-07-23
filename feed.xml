@@ -18,18 +18,6 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
-            <title>Django Round-Up #1</title>
-            <itunes:author>Lincoln Loop</itunes:author>
-            <itunes:summary>For our first official podcast, we were joined by Daniel Greenfeld!</itunes:summary>
-            <description>For our first official podcast, we were joined by Daniel Greenfeld!</description>
-            <enclosure url="http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%201.mp3" length="28941502" type="audio/mpeg" />
-            <guid>django-round-up-1</guid>
-            <link>https://github.com/lincolnloop/round-up/blob/master/round-up-1.md</link>
-            <pubDate>Tue, 16 Jul 2013 16:00:00 GMT</pubDate>
-            <itunes:duration>1:00:15</itunes:duration>
-            <itunes:keywords>django, python, web development</itunes:keywords>
-        </item>
-        <item>
             <title>Django Round-Up #2</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>This week Kenneth is joined by Katie Cunningham, aka @kcunning, who wrote a book on accessibility, and is working on a "learn python in 24 hours" book.</itunes:summary>
@@ -39,6 +27,18 @@
             <link>https://github.com/lincolnloop/round-up/blob/master/round-up-2.md</link>
             <pubDate>Tue, 23 Jul 2013 19:20:00 GMT</pubDate>
             <itunes:duration>0:54:47</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
+            <title>Django Round-Up #1</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>For our first official podcast, we were joined by Daniel Greenfeld!</itunes:summary>
+            <description>For our first official podcast, we were joined by Daniel Greenfeld!</description>
+            <enclosure url="http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%201.mp3" length="28941502" type="audio/mpeg" />
+            <guid>django-round-up-1</guid>
+            <link>https://github.com/lincolnloop/round-up/blob/master/round-up-1.md</link>
+            <pubDate>Tue, 16 Jul 2013 16:00:00 GMT</pubDate>
+            <itunes:duration>1:00:15</itunes:duration>
             <itunes:keywords>django, python, web development</itunes:keywords>
         </item>
     </channel>
