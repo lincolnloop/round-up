@@ -16,6 +16,10 @@
 * [Big-O Notation Explained (Justin Abrahms)](http://justin.abrah.ms/computer-science/big-o-notation-explained.html)
 * [Licensing in a Post Copyright World (Armin Ronacher)](http://lucumr.pocoo.org/2013/7/23/licensing/)
 
+## News
+* [PyWeek](http://pyweek.org/) is Sept 1–8th. Write a game in Python in a week.
+* [Treading on Python (Matt Harrison)](http://www.amazon.com/Treading-Python-Volume-Foundations/dp/1475266413/ref=sr_1_1_bnp_1_pap?ie=UTF8&qid=1374769087&sr=8-1&keywords=treading+on+python) is now available in paperback.
+
 
 ## Guest
 Justin Abrahms.
