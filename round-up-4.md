@@ -8,5 +8,9 @@
 * [django-dotenv (Jacob Kaplan-Moss)](https://github.com/jacobian/django-dotenv)
 * [Can You Wheel The Love? (Preston Holmes)](http://www.ptone.com/dablog/2013/07/can-you-wheel-the-love/)
 
+## Just awesome
+* [The Pixel Painter](http://www.thisiscolossal.com/2013/07/the-pixel-painter-a-97-year-old-man-who-paints-using-microsoft-paint-from-windows-95/)
+
+
 ## Guest
 Daniel Lindsley
