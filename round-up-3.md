@@ -23,3 +23,6 @@
 
 ## Guest
 Justin Abrahms.
+- Worked at Google, now works at Sprint.ly
+- Thinks a lot about API design and testing
+- Thinks a lot about developer productivity & tooling
