@@ -7,6 +7,7 @@
 * [django-dotenv (Jacob Kaplan-Moss)](https://github.com/jacobian/django-dotenv)
 * [django-getenv – use environment variables in your Django settings (David Murphy)](http://blog.schwuk.com/2013/07/24/django-getenv-v1-0/)
 * [Can You Wheel The Love? (Preston Holmes)](http://www.ptone.com/dablog/2013/07/can-you-wheel-the-love/)
+* [A Thousand Papercuts (Andrew Godwin)](http://www.aeracode.org/2013/7/25/thousand-papercuts/)
 
 ## Just awesome
 * [The Pixel Painter](http://www.thisiscolossal.com/2013/07/the-pixel-painter-a-97-year-old-man-who-paints-using-microsoft-paint-from-windows-95/)
@@ -14,3 +15,5 @@
 
 ## Guest
 Daniel Lindsley
+- Works for a company named after a big river
+- Created tastypie and haystack
