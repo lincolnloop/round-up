@@ -4,9 +4,9 @@
 
 ## Guest
 
-Justin Abrahms.
+[Justin Abrahms](http://justin.abrah.ms).
 
-- Worked at Google, now works at Sprint.ly
+- Worked at Google, now works at [Sprint.ly](https://sprint.ly/)
 - Thinks a lot about API design and testing
 - Thinks a lot about developer productivity & tooling
 
