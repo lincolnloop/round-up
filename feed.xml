@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Django Round-Up #3</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>This week Kenneth and Brandon are joined by Justin Abrahms!</itunes:summary>
+            <description>This week Kenneth and Brandon are joined by Justin Abrahms!</description>
+            <enclosure url="http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%203.mp3" length="32508156" type="audio/mpeg" />
+            <guid>django-round-up-3</guid>
+            <link>https://github.com/lincolnloop/round-up/blob/master/round-up-3.md</link>
+            <pubDate>Tue, 29 Jul 2013 14:39:00 GMT</pubDate>
+            <itunes:duration>1:07:43</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Django Round-Up #2</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>This week Kenneth is joined by Katie Cunningham, aka @kcunning, who wrote a book on accessibility, and is working on a "learn python in 24 hours" book.</itunes:summary>
