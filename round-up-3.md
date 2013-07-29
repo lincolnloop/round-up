@@ -1,5 +1,19 @@
 # Django Round-Up #3
 
+*July 29th, 2013*
+
+## Guest
+
+Justin Abrahms.
+
+- Worked at Google, now works at Sprint.ly
+- Thinks a lot about API design and testing
+- Thinks a lot about developer productivity & tooling
+
+## Download it!
+
+[MP3 - 1:07:43 - 32.5 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%203.mp3)
+
 ## Django/Python
 
 * [Hosting static Flask sites for free on Github Pages (Steven Loria)](http://www.stevenloria.com/hosting-static-flask-sites-for-free-on-github-pages/)
@@ -9,7 +23,7 @@
 * [Setup.py vs Requirements.txt (Donald Stufft)](https://caremad.io/blog/setup-vs-requirements/)
 * [New Pip](http://www.pip-installer.org/en/latest/news.html) and [new format for packages](https://pypi.python.org/pypi/wheel)
 
-## Everything else
+## Other topics
 
 * [Postman](http://www.getpostman.com/)
 * [Mock Response](http://mock.isssues.com/)
@@ -20,14 +34,6 @@
 
 * [PyWeek](http://pyweek.org/) is Sept 1–8th. Write a game in Python in a week.
 * [Treading on Python (Matt Harrison)](http://www.amazon.com/Treading-Python-Volume-Foundations/dp/1475266413/ref=sr_1_1_bnp_1_pap?ie=UTF8&qid=1374769087&sr=8-1&keywords=treading+on+python) is now available in paperback.
-
-## Guest
-
-Justin Abrahms.
-
-- Worked at Google, now works at Sprint.ly
-- Thinks a lot about API design and testing
-- Thinks a lot about developer productivity & tooling
 
 ## Music
 
