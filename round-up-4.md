@@ -8,6 +8,7 @@
 * [django-getenv – use environment variables in your Django settings (David Murphy)](http://blog.schwuk.com/2013/07/24/django-getenv-v1-0/)
 * [Can You Wheel The Love? (Preston Holmes)](http://www.ptone.com/dablog/2013/07/can-you-wheel-the-love/)
 * [A Thousand Papercuts (Andrew Godwin)](http://www.aeracode.org/2013/7/25/thousand-papercuts/)
+* [Django adopts a Code of Conduct](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/)
 
 ## Just awesome
 * [The Pixel Painter](http://www.thisiscolossal.com/2013/07/the-pixel-painter-a-97-year-old-man-who-paints-using-microsoft-paint-from-windows-95/)
