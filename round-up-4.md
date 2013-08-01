@@ -12,6 +12,11 @@
 ## Just awesome
 * [The Pixel Painter](http://www.thisiscolossal.com/2013/07/the-pixel-painter-a-97-year-old-man-who-paints-using-microsoft-paint-from-windows-95/)
 
+## Notes
+* [DjangoCon US 2013 tutorial schedule](http://www.djangocon.us/content/tutorials/)
+* [2013 Teen Tech Camp (Julia Elman)](http://juliaelman.com/blog/2013/07/31/durham-teen-tech-camp-press-release/)
+
+
 
 ## Guest
 Daniel Lindsley
