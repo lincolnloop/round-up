@@ -6,6 +6,7 @@ Daniel Lindsley
 
 - Works for a company named after a big river
 - Created tastypie and haystack
+- Now a Django core member
 
 ## Django/Python
 
