@@ -22,6 +22,7 @@ Daniel Lindsley
 
 ## Just awesome
 * [The Pixel Painter](http://www.thisiscolossal.com/2013/07/the-pixel-painter-a-97-year-old-man-who-paints-using-microsoft-paint-from-windows-95/)
+* [Regex Crossword](http://regexcrossword.com/)
 
 ## Notes
 * [DjangoCon US 2013 tutorial schedule](http://www.djangocon.us/content/tutorials/)
