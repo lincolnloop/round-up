@@ -1,6 +1,14 @@
 # Django Round-Up #4
 
+## Guest
+
+Daniel Lindsley
+
+- Works for a company named after a big river
+- Created tastypie and haystack
+
 ## Django/Python
+
 * [Tango (Tim Baxter)](http://tbaxter.github.io/Tango/)
 * [Why Package Signing is Not the Holy Grail (Donald Stufft)](https://caremad.io/blog/packaging-signing-not-holy-grail/)
 * [Being a Django Apologist (Charles Leifer)](http://charlesleifer.com/blog/becoming-a-django-apologist/)
@@ -11,10 +19,5 @@
 * [Django adopts a Code of Conduct](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/)
 
 ## Just awesome
+
 * [The Pixel Painter](http://www.thisiscolossal.com/2013/07/the-pixel-painter-a-97-year-old-man-who-paints-using-microsoft-paint-from-windows-95/)
-
-
-## Guest
-Daniel Lindsley
-- Works for a company named after a big river
-- Created tastypie and haystack
