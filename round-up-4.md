@@ -27,3 +27,5 @@ Daniel Lindsley
 ## Notes
 * [DjangoCon US 2013 tutorial schedule](http://www.djangocon.us/content/tutorials/)
 * [2013 Teen Tech Camp (Julia Elman)](http://juliaelman.com/blog/2013/07/31/durham-teen-tech-camp-press-release/)
+
+![Sloth life](https://dl.dropboxusercontent.com/u/114233/sloth_life.gif)
