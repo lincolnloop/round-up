@@ -22,7 +22,7 @@
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>This week Kenneth and Brandon are joined by Daniel Lindsley!</itunes:summary>
             <description>This week Kenneth and Brandon are joined by Daniel Lindsley!</description>
-            <enclosure url="http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%204.m4a" length="33384857" type="audio/x-m4a" />
+            <enclosure url="http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%204.mp3" length="33384857" type="audio/mpeg" />
             <guid>django-round-up-4</guid>
             <link>https://github.com/lincolnloop/round-up/blob/master/round-up-4.md</link>
             <pubDate>Mon, 05 Aug 2013 14:34:00 GMT</pubDate>
