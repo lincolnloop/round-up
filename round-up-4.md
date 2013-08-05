@@ -1,5 +1,7 @@
 # Django Round-Up #4
 
+*August 5th, 2013*
+
 ## Guest
 
 Daniel Lindsley
@@ -21,11 +23,17 @@ Daniel Lindsley
 * [django-pgfields (Luke Sneeringer)](https://github.com/lukesneeringer/django-pgfields)
 
 ## Just awesome
+
 * [The Pixel Painter](http://www.thisiscolossal.com/2013/07/the-pixel-painter-a-97-year-old-man-who-paints-using-microsoft-paint-from-windows-95/)
 * [Regex Crossword](http://regexcrossword.com/)
 
 ## Notes
+
 * [DjangoCon US 2013 tutorial schedule](http://www.djangocon.us/content/tutorials/)
 * [2013 Teen Tech Camp (Julia Elman)](http://juliaelman.com/blog/2013/07/31/durham-teen-tech-camp-press-release/)
+
+## Music
+
+This episode's theme song is "[Computer](http://freemusicarchive.org/music/State_Shirt/This_Is_Old/04_Computer)" by [State Shirt](http://freemusicarchive.org/music/State_Shirt/).
 
 ![Sloth life](https://dl.dropboxusercontent.com/u/114233/sloth_life.gif)
