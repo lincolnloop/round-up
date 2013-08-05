@@ -16,6 +16,7 @@ Tom Christie
 * [Babel (Armin Ronacher)](https://github.com/mitsuhiko/babel)
 * [Design a RESTful API using Flask-RESTful (Miguel Grinberg)](http://blog.miguelgrinberg.com/post/designing-a-restful-api-using-flask-restful)
 * [JavaScript and Source Maps in a Django App (Sergei Bezborodko)](https://rollbar.com/blog/post/2013/08/02/javascript-and-source-maps-in-a-django-app/)
+* [django-discover-jenkins (Brandon Konkle)](https://github.com/lincolnloop/django-discover-jenkins)
 
 ## Neat
 
