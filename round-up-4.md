@@ -2,6 +2,11 @@
 
 *August 5th, 2013*
 
+## Download it!
+
+[AAC - 1:07:50 - 33.4 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%204.m4a)
+[MP3 - 1:07:50 - 32.6 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%204.mp3)
+
 ## Guest
 
 Daniel Lindsley
