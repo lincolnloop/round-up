@@ -17,6 +17,7 @@ Tom Christie
 * [Babel (Armin Ronacher)](https://github.com/mitsuhiko/babel)
 * [JavaScript and Source Maps in a Django App (Sergei Bezborodko)](https://rollbar.com/blog/post/2013/08/02/javascript-and-source-maps-in-a-django-app/)
 * [django-discover-jenkins (Brandon Konkle)](https://github.com/lincolnloop/django-discover-jenkins)
+* [Testing in Django (part 1) (Michael Herman)](http://www.realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/)
 
 ## Neat
 * [Python Challenge](http://www.pythonchallenge.com/)
