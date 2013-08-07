@@ -8,6 +8,7 @@ Tom Christie
 
 ## Django/Python
 * [Security advisory: BREACH and Django (Jacob Kaplan-Moss)](https://www.djangoproject.com/weblog/2013/aug/06/breach-and-django/)
+* [DjangoCon US 2013 Schedule](http://www.djangocon.us/schedule/)
 * [docjson](https://github.com/docjson/docjson)
 * [django-widget-tweaks (Mikhail Korobov)](https://bitbucket.org/kmike/django-widget-tweaks/)
 * [Image Hosting in 30 Minutes (Valentin Golev)](http://gun.io/blog/image-hosting-in-30-minutes/)
@@ -16,8 +17,3 @@ Tom Christie
 * [Babel (Armin Ronacher)](https://github.com/mitsuhiko/babel)
 * [JavaScript and Source Maps in a Django App (Sergei Bezborodko)](https://rollbar.com/blog/post/2013/08/02/javascript-and-source-maps-in-a-django-app/)
 * [django-discover-jenkins (Brandon Konkle)](https://github.com/lincolnloop/django-discover-jenkins)
-
-## Neat
-* [Python Challenge](http://www.pythonchallenge.com/)
-* [GeoJSON.io](http://macwright.org/2013/07/26/geojsonio.html)
-
