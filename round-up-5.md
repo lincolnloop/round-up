@@ -1,12 +1,19 @@
-# Django Round-Up #5
+## Django Round-Up #5
 
-## Guest
+*August 12th, 2013*
 
-Tom Christie
+**Download it!**
 
-- Created django-rest-framework
+[AAC - 0:59:10 - 29.1 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%205.m4a)
 
-## Django/Python
+[MP3 - 0:59:10 - 28.4 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%205.mp3)
+
+**Guest**
+
+Tom Christie, creator of [django-rest-framework](http://django-rest-framework.org/)
+
+**Topics**
+
 * [Security advisory: BREACH and Django (Jacob Kaplan-Moss)](https://www.djangoproject.com/weblog/2013/aug/06/breach-and-django/)
 * [DjangoCon US 2013 Schedule](http://www.djangocon.us/schedule/)
 * [docjson (Tom Christie)](https://github.com/docjson/docjson)
@@ -17,3 +24,7 @@ Tom Christie
 * [Babel (Armin Ronacher)](https://github.com/mitsuhiko/babel)
 * [JavaScript and Source Maps in a Django App (Sergei Bezborodko)](https://rollbar.com/blog/post/2013/08/02/javascript-and-source-maps-in-a-django-app/)
 * [django-discover-jenkins (Brandon Konkle)](https://github.com/lincolnloop/django-discover-jenkins)
+
+**Music**
+
+This episode's theme song is "[Other Side](http://freemusicarchive.org/music/Lame_Drivers/Flexidisc_EP/Other_Side_053012)" by [Lame Drivers](http://freemusicarchive.org/music/Lame_Drivers/).
