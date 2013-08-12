@@ -9,7 +9,7 @@ Tom Christie
 ## Django/Python
 * [Security advisory: BREACH and Django (Jacob Kaplan-Moss)](https://www.djangoproject.com/weblog/2013/aug/06/breach-and-django/)
 * [DjangoCon US 2013 Schedule](http://www.djangocon.us/schedule/)
-* [docjson](https://github.com/docjson/docjson)
+* [docjson (Tom Christie)](https://github.com/docjson/docjson)
 * [django-widget-tweaks (Mikhail Korobov)](https://bitbucket.org/kmike/django-widget-tweaks/)
 * [Image Hosting in 30 Minutes (Valentin Golev)](http://gun.io/blog/image-hosting-in-30-minutes/)
 * [Django 1.6: The best new features & the important changes (Julien Phalip)](https://speakerdeck.com/julienphalip/django-1-dot-6-the-best-new-features-and-the-important-changes)
