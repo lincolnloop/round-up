@@ -1,6 +1,7 @@
 # Django Round-Up #6
 
 ## Django/Python
+* [Security Releases Issued (Jacob Kaplan-Moss)](https://www.djangoproject.com/weblog/2013/aug/13/security-releases-issued/)
 * [Refactoring to Save 4,805 Lines of Code (Dustin Davis)](http://www.nerdydork.com/refactoring-to-save-4805-lines-of-code.html)
 * [TextBlob (Steven Loria)](https://github.com/sloria/TextBlob)
 * [Projects (Karan Goel)](https://github.com/thekarangoel/Projects)
@@ -11,10 +12,9 @@
 
 
 ## Neat
-* [Simple API with Nginx and PostgreSQL (Richard Nystöm)](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html) (?)
 * [Huxley (Facebook)](https://github.com/facebook/huxley)
 * [Example PyCon talk Proposals (Brandon Rhodes)](http://rhodesmill.org/brandon/2013/example-pycon-proposals/)
-* [Young Coders at PyOhio (Katie Cunninghamg)](http://therealkatie.net/blog/2013/aug/5/young-coders-pyohio/)
+* [Young Coders at PyOhio (Katie Cunningham)](http://therealkatie.net/blog/2013/aug/5/young-coders-pyohio/)
 
 
 ## Guest
