@@ -8,6 +8,7 @@
 * [Help with coverage.py (Ned Batchelder)](http://nedbatchelder.com/blog/201308/i_need_help_with_coveragepy.html)
 * [summarize.py (Jonathon Vogel)](https://github.com/Rotten194/summarize.py)
 * [django-model-utils (Vincent Agnano)](https://github.com/vinyll/django-model-urls)
+* [The most-watched Python repositories on Github (Vasudev Ram)](http://jugad2.blogspot.com/2013/08/the-most-watched-python-repositories-on.html)
 
 ## Neat
 * [Python Challenge](http://www.pythonchallenge.com/)
