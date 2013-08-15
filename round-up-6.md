@@ -15,6 +15,7 @@
 * [Huxley (Facebook)](https://github.com/facebook/huxley)
 * [Example PyCon talk Proposals (Brandon Rhodes)](http://rhodesmill.org/brandon/2013/example-pycon-proposals/)
 * [Young Coders at PyOhio (Katie Cunningham)](http://therealkatie.net/blog/2013/aug/5/young-coders-pyohio/)
+* [PyCon.AU](http://pyvideo.org/category/38/pycon-au-2013)
 
 
 ## Guest
