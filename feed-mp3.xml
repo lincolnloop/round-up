@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Django Round-Up #6</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>This week Kenneth and Brandon are joined by Russell Keith-Magee!</itunes:summary>
+            <description>This week Kenneth and Brandon are joined by Russell Keith-Magee!</description>
+            <enclosure url="http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%206.mp3" length="30225263" type="audio/mpeg" />
+            <guid>django-round-up-6</guid>
+            <link>https://github.com/lincolnloop/round-up/blob/master/round-up-6.md</link>
+            <pubDate>Mon, 19 Aug 2013 18:00:00 GMT</pubDate>
+            <itunes:duration>1:02:58</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Django Round-Up #5</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>This week Kenneth and Brandon are joined by Tom Christie!</itunes:summary>
