@@ -15,6 +15,7 @@
 * [GeoJSON.io](http://macwright.org/2013/07/26/geojsonio.html)
 * [Python @ Dash](http://python-dashapp.tk/)
 * [What Every Coder Community Can Learn From Python (Jay Cassano)](http://www.fastcolabs.com/3015524/what-every-coder-community-can-learn-from-python)
+* [Teen Tech Camp 2013 Recap (Julia Elman)](http://juliaelman.com/blog/2013/08/20/teen-tech-camp-recap/)
 
 
 ## Guest
