@@ -2,7 +2,7 @@
 
 ## Guest
 
-[Julia Elman](http://juliaelman.com) - Designer/Developer based in beautiful North Carolina. Works at [@CaktusGroup](http://twitter.com/CaktusGroup), co-leadership at [@GDIRDU](http://twitter.com/GDIRDU), daydreamer and tinkier.
+[Julia Elman](http://twitter.com/juliaelman) - Designer/Developer based in beautiful North Carolina. Works at [@CaktusGroup](http://twitter.com/CaktusGroup), co-leadership at [@GDIRDU](http://twitter.com/GDIRDU), daydreamer and tinkier.
 
 * [Teen Tech Camp 2013 Recap (Julia Elman)](http://juliaelman.com/blog/2013/08/20/teen-tech-camp-recap/)
 
