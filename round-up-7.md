@@ -16,13 +16,11 @@
 * [postgres.py (Chad Whitacre)](https://postgres-py.readthedocs.org/en/latest/)
 * [Help with coverage.py (Ned Batchelder)](http://nedbatchelder.com/blog/201308/i_need_help_with_coveragepy.html)
 * [summarize.py (Jonathon Vogel)](https://github.com/Rotten194/summarize.py)
-* [django-model-utils (Vincent Agnano)](https://github.com/vinyll/django-model-urls)
-* [The most-watched Python repositories on Github (Vasudev Ram)](http://jugad2.blogspot.com/2013/08/the-most-watched-python-repositories-on.html)
+* [django-model-urls (Vincent Agnano)](https://github.com/vinyll/django-model-urls)
 * [raspberry.io site repository open sourced (Vinod Kurup)](http://www.caktusgroup.com/blog/2013/08/14/raspberry-io-open-sourced/)
 
 **Neat**
 
-* [Python Challenge](http://www.pythonchallenge.com/)
 * [GeoJSON.io](http://macwright.org/2013/07/26/geojsonio.html)
 * [Python @ Dash](http://python-dashapp.tk/)
 * [What Every Coder Community Can Learn From Python (Jay Cassano)](http://www.fastcolabs.com/3015524/what-every-coder-community-can-learn-from-python)
