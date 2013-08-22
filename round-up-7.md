@@ -28,4 +28,4 @@
 
 **Music**
 
-The theme song hasn't been chosen yet. Send a pull request with your suggestion!
+Georgia Gibbs - If I Knew You Were Comin' I'd Have Baked a Cake
