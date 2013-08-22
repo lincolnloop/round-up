@@ -4,7 +4,7 @@
 
 **Guest**
 
-[Julia Elman](http://twitter.com/juliaelman) - Designer/Developer based in beautiful North Carolina. Works at [@CaktusGroup](http://twitter.com/CaktusGroup), co-leadership at [@GDIRDU](http://twitter.com/GDIRDU), daydreamer and tinkier.
+[Julia Elman](http://juliaelman.com/) - Designer/Developer based in beautiful North Carolina. Works at [@CaktusGroup](http://twitter.com/CaktusGroup), co-leadership at [@GDIRDU](http://twitter.com/GDIRDU), daydreamer and tinkier. [@juliaelman](http://twitter.com/juliaelman)
 
 * [Teen Tech Camp 2013 Recap (Julia Elman)](http://juliaelman.com/blog/2013/08/20/teen-tech-camp-recap/)
 
@@ -18,6 +18,7 @@
 * [summarize.py (Jonathon Vogel)](https://github.com/Rotten194/summarize.py)
 * [django-model-utils (Vincent Agnano)](https://github.com/vinyll/django-model-urls)
 * [The most-watched Python repositories on Github (Vasudev Ram)](http://jugad2.blogspot.com/2013/08/the-most-watched-python-repositories-on.html)
+* [raspberry.io site repository open sourced (Vinod Kurup)](http://www.caktusgroup.com/blog/2013/08/14/raspberry-io-open-sourced/)
 
 **Neat**
 
@@ -28,4 +29,4 @@
 
 **Music**
 
-The theme song hasn't been chosen yet. Send a pull request with your suggestion!
+Georgia Gibbs - If I Knew You Were Comin' I'd Have Baked a Cake
