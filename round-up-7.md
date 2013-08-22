@@ -18,6 +18,7 @@
 * [summarize.py (Jonathon Vogel)](https://github.com/Rotten194/summarize.py)
 * [django-model-utils (Vincent Agnano)](https://github.com/vinyll/django-model-urls)
 * [The most-watched Python repositories on Github (Vasudev Ram)](http://jugad2.blogspot.com/2013/08/the-most-watched-python-repositories-on.html)
+* [raspberry.io site repository open sourced (Vinod Kurup)](http://www.caktusgroup.com/blog/2013/08/14/raspberry-io-open-sourced/)
 
 **Neat**
 
