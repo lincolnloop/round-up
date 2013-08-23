@@ -1,7 +1,7 @@
 # Django Round-Up #8
 
 ## Django/Python
-* [cookiecutter-dj-package (Daniel Greenfeld)](https://github.com/pydanny/cookiecutter-dj-package)
+* [Migrations lands in 1.7 (Andrew Godwin)](https://github.com/django/django/commit/9aa358cedd1ad93c0f4c20700db7016651dc0598)
 * [Control Your Laptop with Android, Python, Twisted, and Django (Martin Chikilian)](http://www.toptal.com/android/control-your-laptop-with-android-python-twisted-and-django)
 * [djangothis (Amit Upadhyay)](https://github.com/amitu/djangothis)
 * [Django i18n (Albert O'Connor)](http://albertoconnor.ca/blog/2013/Aug/19/django-i18n)
