@@ -27,4 +27,4 @@
 
 **Music**
 
-The theme song hasn't been chosen yet. If you've got an original or Creative Commons song you'd like to hear, send a pull request with your suggestion!
+This week's song is [Great Lakes](http://freemusicarchive.org/music/John_Wort_Hannam/John_Wort_Hannam_Live_on_CJSWs_The_Morning_After_March_28_2012/Great_Lakes) by [John Wort Hannam](http://freemusicarchive.org/music/John_Wort_Hannam/)
