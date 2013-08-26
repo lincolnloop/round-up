@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Django Round-Up #7</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>This week Kenneth and Brandon are joined by Julia Elman!</itunes:summary>
+            <description>This week Kenneth and Brandon are joined by Julia Elman!</description>
+            <enclosure url="http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%207.mp3" length="34112911" type="audio/mpeg" />
+            <guid>django-round-up-7</guid>
+            <link>http://lincolnloop.github.io/round-up/#round-up-7</link>
+            <pubDate>Mon, 26 Aug 2013 20:00:00 GMT</pubDate>
+            <itunes:duration>1:11:04</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Django Round-Up #6</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>This week Kenneth and Brandon are joined by Russell Keith-Magee!</itunes:summary>
