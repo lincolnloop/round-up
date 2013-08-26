@@ -6,6 +6,7 @@
 * [djangothis (Amit Upadhyay)](https://github.com/amitu/djangothis)
 * [Django i18n (Albert O'Connor)](http://albertoconnor.ca/blog/2013/Aug/19/django-i18n)
 * [Cookiecutter (Daniel Greenfeld & Audrey Roy)](http://pydanny.com/cookie-project-templates-made-easy.html)
+* [Django and pip wheel (Ionel Cristian Mărieș)](http://blog.ionelmc.ro/2013/08/26/django-pip-wheel/)
 
 ## Neat
 * [Simple API with Nginx and PostgreSQL (Richard Nystöm)](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html) (?)
