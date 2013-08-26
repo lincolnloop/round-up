@@ -1,6 +1,12 @@
-# Django Round-Up #7
+## Django Round-Up #7
 
 *August 26th, 2013*
+
+**Download it!**
+
+[AAC - 1:11:04 - 35 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%207.m4a)
+
+[MP3 - 1:11:04 - 34.1 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%207.mp3)
 
 **Guest**
 
