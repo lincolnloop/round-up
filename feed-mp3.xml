@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Django Round-Up: DjangoCon Edition</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>In this special episode, we interview Steve Holden and discuss the history of DjangoCon, what goes into producing a conference, and Steve's personal history with Django.</itunes:summary>
+            <description>In this special episode, we interview Steve Holden and discuss the history of DjangoCon, what goes into producing a conference, and Steve's personal history with Django.</description>
+            <enclosure url="http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%20DjangoCon.mp3" length="15186255" type="audio/mpeg" />
+            <guid>djangocon-2013</guid>
+            <link>http://lincolnloop.github.io/round-up/#djangocon</link>
+            <pubDate>Mon, 27 Aug 2013 23:16:00 GMT</pubDate>
+            <itunes:duration>0:31:38</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Django Round-Up #7</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>This week Kenneth and Brandon are joined by Julia Elman!</itunes:summary>
