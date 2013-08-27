@@ -9,9 +9,9 @@
 * [Django and pip wheel (Ionel Cristian Mărieș)](http://blog.ionelmc.ro/2013/08/26/django-pip-wheel/)
 
 ## Neat
-* [Simple API with Nginx and PostgreSQL (Richard Nystöm)](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html) (?)
 * [Open Sourcing a Python Project the Right Way (Jeff Knupp)](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 * [So, You Want to Run a Young Coders Class (Katie Cunningham)](http://programming.oreilly.com/2013/08/so-you-want-to-run-a-young-coders-class.html)
+* [Learn Python the Hard Way 5 Day Workshop (Zed Shaw)](https://www.wepay.com/events/learn-python-the-hard-way-5-day-workshop)
 * [PRISM-as-a-service (Lynn Root)](http://www.roguelynn.com/prism/)
 
 
