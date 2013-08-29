@@ -15,10 +15,10 @@
 * [Cookiecutter (Daniel Greenfeld & Audrey Roy)](http://pydanny.com/cookie-project-templates-made-easy.html)
 * [Django and pip wheel (Ionel Cristian Mărieș)](http://blog.ionelmc.ro/2013/08/26/django-pip-wheel/)
 * [Private media with Django (Arthur Street)](http://racingtadpole.com/blog/private-media-with-django/)
+* * [Open Sourcing a Python Project the Right Way (Jeff Knupp)](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 
 **Neat**
 
-* [Open Sourcing a Python Project the Right Way (Jeff Knupp)](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 * [So, You Want to Run a Young Coders Class (Katie Cunningham)](http://programming.oreilly.com/2013/08/so-you-want-to-run-a-young-coders-class.html)
 * [PRISM-as-a-service (Lynn Root)](http://www.roguelynn.com/prism/)
 
