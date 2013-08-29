@@ -4,7 +4,7 @@
 
 **Guest**
 
-[Lynn Root](https://twitter.com/roguelynn) - Engineer (@redhatnews)[https://twitter.com/redhatnews] for http://t.co/HPbaACJvkC. [@ThePSF](https://twitter.com/ThePSF) board member, DSF member. [@PyLadiesSF](https://twitter.com/PyLadiesSF) founder. VM breaker, insomniac, socializer. Thoughts are my own.
+[Lynn Root](https://twitter.com/roguelynn) - Engineer [@redhatnews](https://twitter.com/redhatnews) for http://www.freeipa.org/. [@ThePSF](https://twitter.com/ThePSF) board member, DSF member. [@PyLadiesSF](https://twitter.com/PyLadiesSF) founder. VM breaker, insomniac, socializer. Thoughts are my own.
 
 **Django/Python**
 
