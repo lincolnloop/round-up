@@ -5,6 +5,8 @@
 * [Processing Video with Python (Stickyworld Tech Team)](http://techblog.stickyworld.com/video-with-python.html)
 * [Really Scrapable Web App is a New Way to Learn About Web Scraping (Matthew Hughes)](http://www.matthewhughes.co.uk/really-scrapable-web-app-is-a-new-way-to-learn-about-web-scraping/)
 * [Catching Up (James Bennett)](http://www.b-list.org/weblog/2013/aug/26/catching/)
+* [Sixpack Public Launch (Zack Kitzmiller)](http://b.z19r.com/post/sixpack-public-launch)
+* [Estimating User Lifetimes (Cam Davidson-Pilon)](http://blog.yhathq.com/posts/estimating-user-lifetimes-with-pymc.html)
 
 ## Guest
 Miguel Grinberg
