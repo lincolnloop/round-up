@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Django Round-Up #8</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Lynn Root joins us to discuss the latest Django and Python links, running your own young coders class, and PRISMs effect on us and the technology we use.</itunes:summary>
+            <description>Lynn Root joins us to discuss the latest Django and Python links, running your own young coders class, and PRISMs effect on us and the technology we use.</description>
+            <enclosure url="http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%208.mp3" length="23438630" type="audio/mpeg" />
+            <guid>django-round-up-8</guid>
+            <link>http://lincolnloop.github.io/round-up/#round-up-8</link>
+            <pubDate>Mon, 03 Sep 2013 19:30:00 GMT</pubDate>
+            <itunes:duration>0:48:45</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Django Round-Up: DjangoCon Edition</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>In this special episode, we interview Steve Holden and discuss the history of DjangoCon, what goes into producing a conference, and Steve's personal history with Django.</itunes:summary>
