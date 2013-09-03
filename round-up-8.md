@@ -24,4 +24,4 @@
 
 **Music**
 
-This week's song is [Simple Hello](http://dig.ccmixter.org/dig?dig-lic=safe&dig-query=%22Simple%20Hello%22%20-KungFu) by [Jenny Mayhem](http://www.jennymayhem.ca/), remixed by [Jeris](http://ccmixter.org/people/VJ_Memes/profile), licensed under [Creative Commons Attribution (3.0)](http://creativecommons.org/licenses/by/3.0/)
+This week's song is [Simple Hello](http://dig.ccmixter.org/dig?dig-lic=safe&dig-query=%22Simple%20Hello%22%20-KungFu) by [Jenny Mayhem](http://www.jennymayhem.ca/), remixed by [Jeris](http://ccmixter.org/people/VJ_Memes/profile), licensed under [Creative Commons Attribution (3.0)](http://creativecommons.org/licenses/by/3.0/). Thank you to [@oubiga](https://github.com/oubiga) for the suggestion!
