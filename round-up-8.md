@@ -24,4 +24,4 @@
 
 **Music**
 
-This week's song has not been chosen yet. If you have an original or Creative Commons song to share, send a pull request!
+This week's song is [Simple Hello](http://dig.ccmixter.org/dig?dig-lic=safe&dig-query=%22Simple%20Hello%22%20-KungFu) by [Jenny Mayhem](http://www.jennymayhem.ca/) licensed under [Creative Commons Attribution (3.0)](http://creativecommons.org/licenses/by/3.0/)
