@@ -1,6 +1,12 @@
 ## Django Round-Up #8
 
-*September 2nd, 2013*
+*September 3rd, 2013*
+
+**Download it!**
+
+[AAC - 0:48:45 - 24.3 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%208.m4a)
+
+[MP3 - 0:48:45 - 23.4 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%208.mp3)
 
 **Guest**
 
@@ -24,4 +30,4 @@
 
 **Music**
 
-This week's song has not been chosen yet. If you have an original or Creative Commons song to share, send a pull request!
+This week's song is [Simple Hello](http://dig.ccmixter.org/dig?dig-lic=safe&dig-query=%22Simple%20Hello%22%20-KungFu) by [Jenny Mayhem](http://www.jennymayhem.ca/), remixed by [Jeris](http://ccmixter.org/people/VJ_Memes/profile), licensed under [Creative Commons Attribution (3.0)](http://creativecommons.org/licenses/by/3.0/). Thank you to [@oubiga](https://github.com/oubiga) for the suggestion!
