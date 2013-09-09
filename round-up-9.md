@@ -2,6 +2,13 @@
 
 *September 9th, 2013*
 
+**Download it!**
+
+[AAC - 0:48:45 - 24.3 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%209.mp4)
+
+[MP3 - 0:48:45 - 23.4 MB](http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%209.mp3)
+
+
 **Guest**
 
 [Miguel Grinberg](http://miguelgrinberg.com) - Software engineer, photographer and filmmaker in Portland, Oregon, USA. Currently writing a book on web development with Python and Flask.
@@ -23,4 +30,4 @@
 
 **Music**
 
-Nothing has been selected yet. If you have an original or Creative Commons song to suggest, please send a pull request.
+This week's song is [Monte](http://freemusicarchive.org/music/Mermonte/Mermonte/Mermonte_-_Monte) by [Mermonte](http://mermonte.com/)
