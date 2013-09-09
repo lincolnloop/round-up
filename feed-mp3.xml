@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Django Round-Up #9</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Miguel Grinberg joins us for a very Python and Flask centered episode where we discuss color themes, video processing, web scraping, class-based views, and learning Flask.</itunes:summary>
+            <description>Miguel Grinberg joins us for a very Python and Flask centered episode where we discuss color themes, video processing, web scraping, class-based views, and learning Flask.</description>
+            <enclosure url="http://dfefdba4b8432e779112-ebcd017d16300157e1980295b6e28ad8.r84.cf1.rackcdn.com/Django%20Round-Up%209.mp3" length="37485178" type="audio/mpeg" />
+            <guid>django-round-up-9</guid>
+            <link>http://lincolnloop.github.io/round-up/#round-up-9</link>
+            <pubDate>Mon, 09 Sep 2013 18:30:00 GMT</pubDate>
+            <itunes:duration>1:18:01</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Django Round-Up #8</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Lynn Root joins us to discuss the latest Django and Python links, running your own young coders class, and PRISMs effect on us and the technology we use.</itunes:summary>
