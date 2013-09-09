@@ -9,6 +9,7 @@
 * [Personafied (James Bennett)](http://www.b-list.org/weblog/2013/sep/05/persona/)
 * [BeeWare (Russell Keith-Magee)](http://pybee.org/)
 * [Four Tricks for List Comprehensions in Python (Christian Schramm)](http://tech.pro/tutorial/1554/four-tricks-for-comprehensions-in-python)
+* [django-configurations v0.4 and v0.5 released (Jannis Leidel)](http://django-configurations.readthedocs.org/en/latest/changes/#v0-5-2013-09-09)
 
 
 ## Other
