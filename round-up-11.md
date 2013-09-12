@@ -13,5 +13,6 @@ Jacob Kaplan-Moss
 * [Build a Simple, Static, Markdown-Powered Blog with Flask (James Harding)](http://www.jamesharding.ca/posts/simple-static-markdown-blog-in-flask/)
 * [Promises are first-class objects for function calls](http://blogs.fluidinfo.com/terry/2013/09/12/promises-are-first-class-objects-for-function-calls/)
 * [crispy-forms screencast](https://godjango.com/29-crispy-forms/)
+* [structlog](https://structlog.readthedocs.org/en/latest/)
 
 **Other**
