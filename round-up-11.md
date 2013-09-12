@@ -14,5 +14,6 @@ Jacob Kaplan-Moss
 * [Promises are first-class objects for function calls (Terry Jones)](http://blogs.fluidinfo.com/terry/2013/09/12/promises-are-first-class-objects-for-function-calls/)
 * [crispy-forms screencast (Buddy Lindsey)](https://godjango.com/29-crispy-forms/)
 * [structlog (Hynek Schlawack)](https://structlog.readthedocs.org/en/latest/)
+* [Django Software Foundation adopts trademark policy (Russell Keith-Magee)[https://www.djangoproject.com/weblog/2013/sep/12/django-software-foundation-adopts-trademark-policy/]
 
 **Other**
