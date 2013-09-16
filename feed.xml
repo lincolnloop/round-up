@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Django Round-Up #10</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>This week we're joined by Portia Burton! We discuss Portland, Mozilla Persona, making a game board, migrations and South's frozen ORM, Bee Ware and GUI tools vs. the command line, clever comprehensions, and a whole lot more.</itunes:summary>
+            <description>This week we're joined by Portia Burton! We discuss Portland, Mozilla Persona, making a game board, migrations and South's frozen ORM, Bee Ware and GUI tools vs. the command line, clever comprehensions, and a whole lot more.</description>
+            <enclosure url="https://s3.amazonaws.com/django-round-up/Django+Round-Up+10.m4a" length="43630037" type="audio/x-m4a" />
+            <guid>django-round-up-10</guid>
+            <link>http://lincolnloop.github.io/round-up/#round-up-10</link>
+            <pubDate>Mon, 16 Sep 2013 13:00:00 GMT</pubDate>
+            <itunes:duration>1:27:55</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Django Round-Up #9</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Miguel Grinberg joins us for a very Python and Flask centered episode where we discuss color themes, video processing, web scraping, class-based views, and learning Flask.</itunes:summary>
