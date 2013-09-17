@@ -1,10 +1,19 @@
 # Django Round-Up #10
 
+*September 16th, 2013*
+
+**Download it!**
+
+[AAC - 1:27:55 - 43.6 MB](https://s3.amazonaws.com/django-round-up/Django+Round-Up+10.m4a)
+
+[MP3 - 1:27:55 - 42.3 MB](https://s3.amazonaws.com/django-round-up/Django+Round-Up+10.mp3)
+
 **Guest**
 
 [Portia Burton (@pkafei)](https://twitter.com/pkafei) - Lived in China for 6 years, now hacking in Portland, Oregon. Software Developer [@trapit](https://twitter.com/trapit).
 
 **Django/Python**
+
 * [Security Issues Released (James Bennett)](https://www.djangoproject.com/weblog/2013/sep/10/security-releases-issued/)
 * [Personafied (James Bennett)](http://www.b-list.org/weblog/2013/sep/05/persona/)
 * [Adding Persona Authentication to Your Django Project (Adnane Belmadiaf)](http://daker.me/2013/09/adding-persona-authentication-to-your-django-project.html)
@@ -22,4 +31,4 @@
 
 **Music**
 
-This week's music has not been selected yet. If you've got an original or Creative Commons song to share, send a pull request!
+Our theme song is [Monte](http://freemusicarchive.org/music/Mermonte/Mermonte/Mermonte_-_Monte) by [Mermonte](http://mermonte.com/)
