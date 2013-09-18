@@ -13,7 +13,7 @@ Bryan Veloso
 * [Brilliant or Insane Code? (Stavros Korokithakis)](http://www.stavros.io/posts/brilliant-or-insane-code/)
 * [isort (Timothy Crosley)](https://github.com/timothycrosley/isort)
 * [Wedding Hacks--Seating Planner Using Simulated Annealing (Luke Plant)](http://lukeplant.me.uk/blog/posts/wedding-hacks---seating-planner-using-simulated-annealing/)
-* [structlog (Hynek Schlawack)](https://structlog.readthedocs.org/en/0.1.0/)
+* [structlog (Hynek Schlawack)](http://www.structlog.org/)
 * [django-rest-hooks (Zapier)](https://github.com/zapier/django-rest-hooks) and [rest-hooks (zapier)](http://resthooks.org/)
 * [Promises are first-class objects for function calls (Terry Jones)](http://blogs.fluidinfo.com/terry/2013/09/12/promises-are-first-class-objects-for-function-calls/)
 * [crispy-forms screencast (Buddy Lindsey)](https://godjango.com/29-crispy-forms/)
