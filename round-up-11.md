@@ -2,7 +2,7 @@
 
 **Guest**
 
-Bryan Veloso, unemployed. Designed the Django Pony, gamer, and Django geek.
+Bryan Veloso. Designed the Django Pony, gamer, and Django geek.
 
 **Django/Python**
 
