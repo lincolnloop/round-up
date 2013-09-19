@@ -16,4 +16,4 @@ Bryan Veloso
 * [structlog (Hynek Schlawack)](http://www.structlog.org/)
 * [django-rest-hooks (Zapier)](https://github.com/zapier/django-rest-hooks) and [rest-hooks (zapier)](http://resthooks.org/)
 * [Promises are first-class objects for function calls (Terry Jones)](http://blogs.fluidinfo.com/terry/2013/09/12/promises-are-first-class-objects-for-function-calls/)
-* [Why is the Django Logo a My Little Pony (symmitchry)](www.reddit.com/r/django/comments/1miowl/why_is_the_django_logo_a_my_little_pony/)
+* [Why is the Django Logo a My Little Pony (symmitchry)](http://www.reddit.com/r/django/comments/1miowl/why_is_the_django_logo_a_my_little_pony/)
