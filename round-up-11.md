@@ -9,7 +9,6 @@ Bryan Veloso
 * [Security Issues Released (James Bennett)](https://www.djangoproject.com/weblog/2013/sep/15/security/)
 * [Django Software Foundation adopts trademark policy (Russell Keith-Magee)](https://www.djangoproject.com/weblog/2013/sep/12/django-software-foundation-adopts-trademark-policy/)
 * [Announcing the Malcolm Tredinnick Memorial Prize (Russell Keith-Magee)](https://www.djangoproject.com/weblog/2013/sep/16/announcing-malcolm-tredinnick-memorial-prize/)
-
 * [pydown (isnowfy)](https://github.com/isnowfy/pydown)
 * [Brilliant or Insane Code? (Stavros Korokithakis)](http://www.stavros.io/posts/brilliant-or-insane-code/)
 * [Wedding Hacks--Seating Planner Using Simulated Annealing (Luke Plant)](http://lukeplant.me.uk/blog/posts/wedding-hacks---seating-planner-using-simulated-annealing/)
