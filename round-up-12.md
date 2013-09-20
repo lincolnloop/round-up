@@ -11,6 +11,7 @@ Eric Holscher
 * [crispy-forms screencast (Buddy Lindsey)](https://godjango.com/29-crispy-forms/)
 * [isort (Timothy Crosley)](https://github.com/timothycrosley/isort)
 * [releases (Jeff Forcier)](https://github.com/bitprophet/releases)
+* [Tutorial: State-of-the-Art Part-of-Speech Tagging in TextBlob (Steve Loria)](http://www.stevenloria.com/tutorial-state-of-the-art-part-of-speech-tagging-in-textblob/)
 
 **Other**
 
