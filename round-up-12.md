@@ -12,6 +12,8 @@ Eric Holscher
 * [isort (Timothy Crosley)](https://github.com/timothycrosley/isort)
 * [releases (Jeff Forcier)](https://github.com/bitprophet/releases)
 * [Tutorial: State-of-the-Art Part-of-Speech Tagging in TextBlob (Steve Loria)](http://www.stevenloria.com/tutorial-state-of-the-art-part-of-speech-tagging-in-textblob/)
+* [A Programmer's Guide to Data Mining (Ron Zacharski)](http://guidetodatamining.com/)
+* [Central Logging in Django with Graylog2 and graypy (Tobias McNulty)](http://www.caktusgroup.com/blog/2013/09/18/central-logging-django-graylog2-and-graypy/)
 
 **Other**
 
