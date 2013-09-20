@@ -2,7 +2,7 @@
 
 **Guest**
 
-Bryan Veloso
+Bryan Veloso. Designed the Django Pony, gamer, and Django geek.
 
 **Django/Python**
 
