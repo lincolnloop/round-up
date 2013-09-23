@@ -18,3 +18,4 @@ Eric Holscher
 **Other**
 
 * [Realtime Pixel Tracking with nginx, syslog-ng, and Redis (Ben Wilber)](http://benwilber.net/realtime-pixel-tracking-nginx-syslog-ng-redis)
+* [Girls Can't Code (Juha Paananen)](http://girlscantcode.blogspot.fi/2013/08/the-first-lesson.html)
