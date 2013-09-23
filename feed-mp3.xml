@@ -18,11 +18,23 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Brilliant or Insane?</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>This week, Kenneth and Brandon are joined by Bryan Veloso. We talk about the several official Django announcements last week, when maintainability should be sacrificed for performance, algorithmic wedding seating, promises (or futures) in concurrent programming, the Django Pony, and more!</itunes:summary>
+            <description>This week, Kenneth and Brandon are joined by Bryan Veloso. We talk about the several official Django announcements last week, when maintainability should be sacrificed for performance, algorithmic wedding seating, promises (or futures) in concurrent programming, the Django Pony, and more!</description>
+            <enclosure url="http://django-round-up.s3.amazonaws.com/Brilliant%20or%20Insane.mp3" length="35627097" type="audio/mpeg" />
+            <guid>brilliant-or-insane</guid>
+            <link>http://lincolnloop.github.io/round-up/#brilliant-or-insane</link>
+            <pubDate>Mon, 23 Sep 2013 13:00:00 GMT</pubDate>
+            <itunes:duration>1:14:07</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Django Round-Up #10</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>This week we're joined by Portia Burton! We discuss Portland, Mozilla Persona, making a game board, migrations and South's frozen ORM, Bee Ware and GUI tools vs. the command line, clever comprehensions, and a whole lot more.</itunes:summary>
             <description>This week we're joined by Portia Burton! We discuss Portland, Mozilla Persona, making a game board, migrations and South's frozen ORM, Bee Ware and GUI tools vs. the command line, clever comprehensions, and a whole lot more.</description>
-            <enclosure url="https://s3.amazonaws.com/django-round-up/Django+Round-Up+10.mp3" length="42246448" type="audio/mpeg" />
+            <enclosure url="http://django-round-up.s3.amazonaws.com/Django%20Round-Up%2010.mp3" length="42246448" type="audio/mpeg" />
             <guid>django-round-up-10</guid>
             <link>http://lincolnloop.github.io/round-up/#round-up-10</link>
             <pubDate>Mon, 16 Sep 2013 13:00:00 GMT</pubDate>
