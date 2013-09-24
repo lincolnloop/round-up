@@ -4,9 +4,9 @@
 
 **Download it!**
 
-[AAC - 1:27:55 - 43.6 MB](https://s3.amazonaws.com/django-round-up/Django+Round-Up+10.m4a)
+[AAC - 1:27:55 - 43.6 MB](http://django-round-up.s3.amazonaws.com/Django%20Round-Up%2010.m4a)
 
-[MP3 - 1:27:55 - 42.3 MB](https://s3.amazonaws.com/django-round-up/Django+Round-Up+10.mp3)
+[MP3 - 1:27:55 - 42.3 MB](http://django-round-up.s3.amazonaws.com/Django%20Round-Up%2010.mp3)
 
 **Guest**
 
