@@ -17,6 +17,6 @@ Eric Holscher
 
 **Other**
 
-* [Realtime Pixel Tracking with nginx, syslog-ng, and Redis (Ben Wilber)](http://benwilber.net/realtime-pixel-tracking-nginx-syslog-ng-redis)
 * [Girls Can't Code (Juha Paananen)](http://girlscantcode.blogspot.fi/2013/08/the-first-lesson.html)
 * [Python in 24 Hours (Katie Cunningham)](http://www.amazon.com/Python-Hours-Yourself-Edition-ebook/dp/B00F4PSLYS/ref=tmm_kin_title_0)
+* [Help Me Improve Documentation (Eric Holscher)](http://ericholscher.com/blog/2013/sep/25/help-me-improve-documentation/)
