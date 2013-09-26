@@ -5,8 +5,11 @@
 Brett Cannon
 
 **Django/Python**
+* [PyTennessee CFP](http://www.pytennessee.org/)
 * [Performance and Optimization (Django Software Foundation)](https://docs.djangoproject.com/en/dev/topics/performance/)
-* [Requests (for human beings™) 2.0 (Kenneth Reitz)](http://docs.python-requests.org/en/latest/community/updates/#id1)
+* [Generating Django CRUD Scaffolding with Cookiecutter (rolo)](http://wildfish.com/blog/2013/09/25/generating-django-crud-scaffolding-cookiecutter/)
+* [Flask Foundation (Jack Stouffer)](https://github.com/JackStouffer/Flask-Foundation)
+* [Scaling Django to 8 Billion Page Views (Matt Robenolt)](http://blog.disqus.com/post/62187806135/scaling-django-to-8-billion-page-views)
 
 **Other**
 * [Realtime Pixel Tracking with nginx, syslog-ng, and Redis (Ben Wilber)](http://benwilber.net/realtime-pixel-tracking-nginx-syslog-ng-redis)
