@@ -1,4 +1,4 @@
-# Django Round-Up #12
+# Django Round-Up #12 - Guilt Trip
 
 **Guest**
 
