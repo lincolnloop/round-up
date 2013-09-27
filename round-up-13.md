@@ -11,6 +11,8 @@ Brett Cannon
 * [Flask Foundation (Jack Stouffer)](https://github.com/JackStouffer/Flask-Foundation)
 * [Scaling Django to 8 Billion Page Views (Matt Robenolt)](http://blog.disqus.com/post/62187806135/scaling-django-to-8-billion-page-views)
 * [Down and Dirty (Andrew Godwin)](http://www.aeracode.org/2013/9/25/down-and-dirty/)
+* [Effective Code Review (Alex Gaynor)](http://alexgaynor.net/2013/sep/26/effective-code-review/)
+* [django-waffle screencast (Buddy Lindsey)](https://godjango.com/31-django-waffle/)
 
 **Other**
 * [Realtime Pixel Tracking with nginx, syslog-ng, and Redis (Ben Wilber)](http://benwilber.net/realtime-pixel-tracking-nginx-syslog-ng-redis)
