@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Guilt Trip</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Eric Holscher jumps in to talk about blogging, deployment, the latest community news and project releases, teaching kids to code, and his experiment to support his community contributions through gittip.</itunes:summary>
+            <description>Eric Holscher jumps in to talk about blogging, deployment, the latest community news and project releases, teaching kids to code, and his experiment to support his community contributions through gittip.</description>
+            <enclosure url="http://django-round-up.s3.amazonaws.com/Guilt%20Trip.mp3" length="31442020" type="audio/mpeg" />
+            <guid>guilt-trip</guid>
+            <link>http://roundup.lincolnloop.com/#guilt-trip</link>
+            <pubDate>Mon, 30 Sep 2013 14:00:00 GMT</pubDate>
+            <itunes:duration>1:05:25</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Brilliant or Insane?</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>This week, Kenneth and Brandon are joined by Bryan Veloso. We talk about the several official Django announcements last week, when maintainability should be sacrificed for performance, algorithmic wedding seating, promises (or futures) in concurrent programming, the Django Pony, and more!</itunes:summary>
