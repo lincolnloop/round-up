@@ -13,6 +13,7 @@ Brett Cannon
 * [Down and Dirty (Andrew Godwin)](http://www.aeracode.org/2013/9/25/down-and-dirty/)
 * [Effective Code Review (Alex Gaynor)](http://alexgaynor.net/2013/sep/26/effective-code-review/)
 * [django-waffle screencast (Buddy Lindsey)](https://godjango.com/31-django-waffle/)
+* [Introducing Flask-Sockets (Kenneth Reitz)](http://kennethreitz.org/introducing-flask-sockets/)
 
 **Other**
 * [Realtime Pixel Tracking with nginx, syslog-ng, and Redis (Ben Wilber)](http://benwilber.net/realtime-pixel-tracking-nginx-syslog-ng-redis)
