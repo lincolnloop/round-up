@@ -14,6 +14,7 @@ Brett Cannon
 * [Effective Code Review (Alex Gaynor)](http://alexgaynor.net/2013/sep/26/effective-code-review/)
 * [django-waffle screencast (Buddy Lindsey)](https://godjango.com/31-django-waffle/)
 * [Introducing Flask-Sockets (Kenneth Reitz)](http://kennethreitz.org/introducing-flask-sockets/)
+* [DjangoCon 2013 Videos (Open Bastion)](https://www.youtube.com/user/TheOpenBastion/videos)
 
 **Other**
 * [Realtime Pixel Tracking with nginx, syslog-ng, and Redis (Ben Wilber)](http://benwilber.net/realtime-pixel-tracking-nginx-syslog-ng-redis)
