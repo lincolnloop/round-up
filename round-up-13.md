@@ -4,6 +4,9 @@
 
 Brett Cannon
 
+* Core developer on Python
+* Works for Google
+
 **Django/Python**
 * [PyTennessee CFP](http://www.pytennessee.org/)
 * [Performance and Optimization (Django Software Foundation)](https://docs.djangoproject.com/en/dev/topics/performance/)
