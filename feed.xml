@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Ecoscope</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Brett Cannon joins us to talk about PyTenessee, performance, cookiecutter, flask foundation, scaling, raw sql migrations, code review, waffling, sockets, pixel tracking, and even cooking.</itunes:summary>
+            <description>Brett Cannon joins us to talk about PyTenessee, performance, cookiecutter, flask foundation, scaling, raw sql migrations, code review, waffling, sockets, pixel tracking, and even cooking.</description>
+            <enclosure url="http://django-round-up.s3.amazonaws.com/Ecoscope.m4a" length="34231432" type="audio/x-m4a" />
+            <guid>ecoscope</guid>
+            <link>http://roundup.lincolnloop.com/#ecoscope</link>
+            <pubDate>Mon, 07 Oct 2013 14:00:00 GMT</pubDate>
+            <itunes:duration>1:08:58</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Guilt Trip</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Eric Holscher jumps in to talk about blogging, deployment, the latest community news and project releases, teaching kids to code, and his experiment to support his community contributions through gittip.</itunes:summary>
