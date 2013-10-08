@@ -13,3 +13,4 @@ Hynek Schlawack
 * [twine (Donald Stufft)](https://github.com/dstufft/twine)
 * [Simple Django Logging (Saul Shanabrook)](http://www.saulshanabrook.com/post/62641685254/simple-django-logging)
 * [remarkdown (sgenoud)](https://github.com/sgenoud/remarkdown)
+* [Admin alert styling discussion (Ryan Allen)](https://groups.google.com/forum/#!topic/django-developers/JsMifSP4QvY)
