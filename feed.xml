@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Not a Fan of Django</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Hynek Schlawack presents us with some Django criticism while talking with us about static media, test speed, mezzanine theming, a pypi wrapper, logging, markdown docs, interceptors, admin styling, pycon keynotes, and test servers.</itunes:summary>
+            <description>Hynek Schlawack presents us with some Django criticism while talking with us about static media, test speed, mezzanine theming, a pypi wrapper, logging, markdown docs, interceptors, admin styling, pycon keynotes, and test servers.</description>
+            <enclosure url="http://django-round-up.s3.amazonaws.com/Not%20a%20Fan%20of%20Django.m4a" length="30987756" type="audio/x-m4a" />
+            <guid>not-a-fan-of-django</guid>
+            <link>http://roundup.lincolnloop.com/#not-a-fan-of-django</link>
+            <pubDate>Mon, 14 Oct 2013 14:00:00 GMT</pubDate>
+            <itunes:duration>1:02:24</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Ecoscope</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Brett Cannon joins us to talk about PyTenessee, performance, cookiecutter, flask foundation, scaling, raw sql migrations, code review, waffling, sockets, pixel tracking, and even cooking.</itunes:summary>
