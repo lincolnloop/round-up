@@ -2,7 +2,8 @@
 
 **Guest**
 
-Hynek Schlawack
+[Hynek Schlawack](http://hynek.me/) - Pythonista, C hacker, JavaScript dabbler, and more. CPython &
+Twisted core dev.
 
 **Django/Python**
 
