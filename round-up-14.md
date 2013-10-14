@@ -1,6 +1,6 @@
 # Django Round-Up # 14
 
-*October 7th, 2013*
+*October 14th, 2013*
 
 **Download**
 
