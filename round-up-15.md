@@ -8,6 +8,7 @@ Buddy Lindsey
 * [Hardware is Hot! (Julia Grace)](http://juliahgrace.com/intro-hardware-hacking-arduino.html)
 * [Humans vs. Zombies (Kevin Zhang)](https://uchicagohvz.org/about/)
 * [django-easy-timezones (Rich Jones)](http://gun.io/blog/django-easy-timezones/)
+* [Obey the Testing Goat! (Harry Percival)](http://www.obeythetestinggoat.com/)
 
 **Other**
 * [Heroku announces WebSockets (Jacob Kaplan-Moss)](https://blog.heroku.com/archives/2013/10/8/websockets-public-beta)
