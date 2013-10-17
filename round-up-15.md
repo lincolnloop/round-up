@@ -1,7 +1,10 @@
 # Django Round-Up 15
 
 **Guest**
+
 Buddy Lindsey
+Host of GoDjango.com videos
+Works at ConsumerAffairs.com
 
 **Django/Python**
 
