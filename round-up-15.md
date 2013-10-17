@@ -21,3 +21,7 @@ Works at ConsumerAffairs.com
 * [Your own mini-Heroku for $5/month (Rajiv Makhijani)](http://blog.rajivm.com/your-own-mini-heroku-for-5-dollars-per-month.html)
 * [Github status in tmux (Wynn Netherland)](https://github.com/pengwynn/dotfiles/commit/ee35bfe920f214c2785eea85ea8447308a0f2733#commitcomment-4330031)
 * [Most Liked and Disliked Programming Languages (Joe Abbate)](http://pyrseas.wordpress.com/2013/10/11/most-liked-and-disliked-programming-languages/)
+
+**Notes**
+
+* [python geonames](https://github.com/nomadjourney/geonames)
