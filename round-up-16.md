@@ -10,6 +10,9 @@ Clinton Blackburn
 **Links**
 
 * [Obey the Testing Goat! (Harry Percival)](http://www.obeythetestinggoat.com/)
+* [postgresql-multicorn (Alexey Vasiliev)](http://leopard.in.ua/2013/09/28/postgresql-multicorn/)
+* [django-extensions 1.2.3 (trbs)](http://trbs.net/blog/2013/10/17/django-extensions-123/)
+* [django-skythumbnails tutorial (Daniel Wilson)](http://concentricsky.com/blog/2014/jul/django-skythumbnails-tutorial)
 
 **Music**
 
