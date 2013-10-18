@@ -1,4 +1,4 @@
-# Django Round-Up # 1
+# Django Round-Up #16
 
 *October 28th, 2013*
 
@@ -15,6 +15,7 @@ Clinton Blackburn
 * [django-skythumbnails tutorial (Daniel Wilson)](http://concentricsky.com/blog/2014/jul/django-skythumbnails-tutorial)
 * [django-debug-panel (recamshak)](https://github.com/recamshak/django-debug-panel)
 * [lifelines (Cameron Davidson-Pilon)](https://github.com/CamDavidsonPilon/lifelines)
+* [Tulip/asyncio merged into Python (Guido van Rossum)](http://hg.python.org/cpython/rev/dafe78cd58c7)
 
 **Music**
 
