@@ -16,6 +16,7 @@ Clinton Blackburn
 * [django-debug-panel (recamshak)](https://github.com/recamshak/django-debug-panel)
 * [lifelines (Cameron Davidson-Pilon)](https://github.com/CamDavidsonPilon/lifelines)
 * [Tulip/asyncio merged into Python (Guido van Rossum)](http://hg.python.org/cpython/rev/dafe78cd58c7)
+* [After 180 Websites, I'm Ready to Start the Rest of My Life as a Coder (Jennifer Dewalt)](http://blog.jenniferdewalt.com/post/62998082815/after-180-websites-im-ready-to-start-the-rest-of-my)
 
 **Music**
 
