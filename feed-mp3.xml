@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Flamewars as a Service</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Our guest this week is <em>Buddy Lindsey</em>, host of <a href="https://godjango.com/">GoDjango</a> videos, works at <a href="https://www.consumeraffairs.com/">ConsumerAffairs.com</a>.<br /><br />00:00:00.000 Intro<br />00:05:45.000 Kiwi PyCon Videos<br />00:07:00.000 Hardware is Hot<br />00:12:43.000 Humans vs. Zombies<br />00:15:15.000 django-easy-timezones<br />00:20:00.000 Deploy Django<br />00:24:46.000 pyenv<br />00:29:30.000 Heroku Websockets<br />00:33:56.000 Your own mini-Heroku<br />00:37:40.000 Github tmux status<br />00:40:18.000 Most Liked and Disliked Programming Languages</itunes:summary>
+            <description>Our guest this week is <em>Buddy Lindsey</em>, host of <a href="https://godjango.com/">GoDjango</a> videos, works at <a href="https://www.consumeraffairs.com/">ConsumerAffairs.com</a>.<br /><br />00:00:00.000 Intro<br />00:05:45.000 Kiwi PyCon Videos<br />00:07:00.000 Hardware is Hot<br />00:12:43.000 Humans vs. Zombies<br />00:15:15.000 django-easy-timezones<br />00:20:00.000 Deploy Django<br />00:24:46.000 pyenv<br />00:29:30.000 Heroku Websockets<br />00:33:56.000 Your own mini-Heroku<br />00:37:40.000 Github tmux status<br />00:40:18.000 Most Liked and Disliked Programming Languages</description>
+            <enclosure url="http://django-round-up.s3.amazonaws.com/Flamewars%20as%20a%20Service.mp3" length="24473223" type="audio/mpeg" />
+            <guid>flamewars-as-a-service</guid>
+            <link>http://roundup.lincolnloop.com/#flamewars-as-a-service</link>
+            <pubDate>Mon, 21 Oct 2013 14:00:00 GMT</pubDate>
+            <itunes:duration>0:49:08</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Not a Fan of Django</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Hynek Schlawack presents us with some Django criticism while talking with us about static media, test speed, mezzanine theming, a pypi wrapper, logging, markdown docs, interceptors, admin styling, pycon keynotes, and test servers.</itunes:summary>
