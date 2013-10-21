@@ -16,6 +16,7 @@ Clinton Blackburn
 * [django-debug-panel (recamshak)](https://github.com/recamshak/django-debug-panel)
 * [lifelines (Cameron Davidson-Pilon)](https://github.com/CamDavidsonPilon/lifelines)
 * [Tulip/asyncio merged into Python (Guido van Rossum)](http://hg.python.org/cpython/rev/dafe78cd58c7)
+* [Async I/O: SF Python Meetup Slides (Guido van Rossum)](https://www.dropbox.com/s/essjj4qmmtrhys4/SFMeetup2013.pdf)
 
 **Music**
 
