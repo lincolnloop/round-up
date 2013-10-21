@@ -13,5 +13,6 @@ Laura Cassell
 * [An Architecture for Django Templates (Harris Lapiroff)](https://oncampus.oberlin.edu/webteam/2012/09/architecture-django-templates)
 * [More Than a Year Down the Line - an Embarrassing Confession to Make (Oliver Denton)](http://www.codelogs.org/more-than-a-year-down-the-line-an-embarrassing-confession-to-make/)
 * [Django Model Behaviors (Kevin Stone)](http://blog.kevinastone.com/django-model-behaviors.html)
+* [Django Dash Results (Django Dash)](http://djangodash.com/judging/2013/results/)
 
 **Music**
