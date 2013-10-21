@@ -1,10 +1,16 @@
 # Django Round-Up 15
 
+*October 21st, 2013*
+
+**Download**
+
+[AAC - 0:49:08 - 24.5 MB](http://django-round-up.s3.amazonaws.com/Flamewars%20as%20a%20Service.m4a)
+
+[MP3 - 0:49:08 - 23.6 MB](http://django-round-up.s3.amazonaws.com/Flamewars%20as%20a%20Service.mp3)
+
 **Guest**
 
-Buddy Lindsey
-Host of GoDjango.com videos
-Works at ConsumerAffairs.com
+*Buddy Lindsey* - Host of [GoDjango](https://godjango.com/) videos, works at [ConsumerAffairs.com](https://www.consumeraffairs.com/).
 
 **Django/Python**
 
@@ -25,3 +31,7 @@ Works at ConsumerAffairs.com
 **Notes**
 
 * [python geonames](https://github.com/nomadjourney/geonames)
+
+**Music**
+
+Our theme song is [Monte](http://freemusicarchive.org/music/Mermonte/Mermonte/Mermonte_-_Monte) by [Mermonte](http://mermonte.com/)
