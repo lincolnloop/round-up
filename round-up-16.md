@@ -8,7 +8,9 @@
 Clinton Blackburn - Photographer and aerial silks person. Software engineer for Kyruus in Cambridge, Mass.
 
 [Aerial Silks Videos](http://www.youtube.com/user/ccb621/videos?tag_id=UC4mgv3pm4Q9wctfrUiG2EAg.3.silks&sort=dd&shelf_index=5&view=46)
+
 [Trapeze Videos](http://www.youtube.com/playlist?list=PLEBD5F3AAB84E258F)
+
 [Photography](http://clintonblackburn.com/)
 
 **Links**
