@@ -7,6 +7,10 @@
 
 Clinton Blackburn
 
+Photographer and aerial silks person.
+
+Software engineer for Kyruus in Cambridge, Mass.
+
 **Links**
 
 * [Django 1.6 RC1 Released (James Bennett)](https://www.djangoproject.com/weblog/2013/oct/22/16c1/)
