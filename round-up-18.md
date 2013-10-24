@@ -1,10 +1,10 @@
 # Django Round-Up #18
 
-*November Something, 2013*
+*November 7, 2013*
 
 **Guest**
 
-Someone
+Jacob Kaplan-Moss
 
 **Links**
 
@@ -12,5 +12,8 @@ Someone
 * [How to Lose $172,222 a Second for 45 Minutes](http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172-222-a-second-for-45-minutes)
 * [When the Database is Fast Enough (Nick Bruun)](http://blog.iconfinder.com/when-the-database-is-fast-enough/)
 * [django-skythumbnails tutorial (Daniel Wilson)](http://concentricsky.com/blog/2014/jul/django-skythumbnails-tutorial)
+* [Build GitHub-like Notifications with Django Messages and AngularJS (masci)](http://dev.pippi.im/2013/10/22/build-github-like-notifications-with-django-messages-and-angular-js/)
+* [Python Monk (C42 Engineering)](http://pythonmonk.com/)
+* [django-postgres-timezones (Counsyl)](https://github.com/counsyl/django-postgres-timezones)
 
 **Music**

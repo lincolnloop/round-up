@@ -17,5 +17,6 @@ Laura Cassell
 * [Django Dash Results (Django Dash)](http://djangodash.com/judging/2013/results/)
 * [django-stalefields (Zapier)](https://github.com/zapier/django-stalefields)
 * [How to Tango with Django (Leif Azzopardi and David Maxwell)](http://www.tangowithdjango.com/book/)
+* [Flat as a Pancake (Andrew Godwin)](http://www.aeracode.org/2013/10/23/flat-pancake/)
 
 **Music**
