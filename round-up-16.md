@@ -25,6 +25,10 @@ Clinton Blackburn - Photographer and aerial silks person. Software engineer for 
 * [Async I/O: SF Python Meetup Slides (Guido van Rossum)](https://www.dropbox.com/s/essjj4qmmtrhys4/SFMeetup2013.pdf)
 * [After 180 Websites, I'm Ready to Start the Rest of My Life as a Coder (Jennifer Dewalt)](http://blog.jenniferdewalt.com/post/62998082815/after-180-websites-im-ready-to-start-the-rest-of-my)
 
+**Notes**
+
+* [The Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
+
 **Music**
 
 Our theme song is [Monte](http://freemusicarchive.org/music/Mermonte/Mermonte/Mermonte_-_Monte) by [Mermonte](http://mermonte.com/)
