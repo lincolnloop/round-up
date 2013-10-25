@@ -8,6 +8,7 @@ Laura Cassell
 
 **Links**
 
+* [Django 1.4.9 and 1.5.5 Released (James Bennett)](https://www.djangoproject.com/weblog/2013/oct/24/bugfix-releases/)
 * [humanhash (Zachary Voase)](https://github.com/zacharyvoase/humanhash)
 * [pulsar (Quantmind)](https://github.com/quantmind/pulsar)
 * [An Architecture for Django Templates (Harris Lapiroff)](https://oncampus.oberlin.edu/webteam/2012/09/architecture-django-templates)
