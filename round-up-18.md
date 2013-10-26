@@ -15,5 +15,6 @@ Jacob Kaplan-Moss
 * [Build GitHub-like Notifications with Django Messages and AngularJS (masci)](http://dev.pippi.im/2013/10/22/build-github-like-notifications-with-django-messages-and-angular-js/)
 * [Python Monk (C42 Engineering)](http://pythonmonk.com/)
 * [django-postgres-timezones (Counsyl)](https://github.com/counsyl/django-postgres-timezones)
+* [Lazy loading below the fold (Peter Bengtsson)](http://www.peterbe.com/plog/lazy-loading-below-the-fold)
 
 **Music**
