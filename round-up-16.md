@@ -7,11 +7,9 @@
 
 Clinton Blackburn - Photographer and aerial silks person. Software engineer for Kyruus in Cambridge, Mass.
 
-[Aerial Silks Videos](http://www.youtube.com/user/ccb621/videos?tag_id=UC4mgv3pm4Q9wctfrUiG2EAg.3.silks&sort=dd&shelf_index=5&view=46)
-
-[Trapeze Videos](http://www.youtube.com/playlist?list=PLEBD5F3AAB84E258F)
-
-[Photography](http://clintonblackburn.com/)
+* [Aerial Silks Videos](http://www.youtube.com/user/ccb621/videos?tag_id=UC4mgv3pm4Q9wctfrUiG2EAg.3.silks&sort=dd&shelf_index=5&view=46)
+* [Trapeze Videos](http://www.youtube.com/playlist?list=PLEBD5F3AAB84E258F)
+* [Photography](http://clintonblackburn.com/)
 
 **Links**
 
@@ -24,6 +22,10 @@ Clinton Blackburn - Photographer and aerial silks person. Software engineer for 
 * [Tulip/asyncio merged into Python (Guido van Rossum)](http://hg.python.org/cpython/rev/dafe78cd58c7)
 * [Async I/O: SF Python Meetup Slides (Guido van Rossum)](https://www.dropbox.com/s/essjj4qmmtrhys4/SFMeetup2013.pdf)
 * [After 180 Websites, I'm Ready to Start the Rest of My Life as a Coder (Jennifer Dewalt)](http://blog.jenniferdewalt.com/post/62998082815/after-180-websites-im-ready-to-start-the-rest-of-my)
+
+**Notes**
+
+* [The Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 
 **Music**
 

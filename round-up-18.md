@@ -16,5 +16,6 @@ Jacob Kaplan-Moss
 * [Python Monk (C42 Engineering)](http://pythonmonk.com/)
 * [django-postgres-timezones (Counsyl)](https://github.com/counsyl/django-postgres-timezones)
 * [django-redisboard (Ionel Cristian Mărieș)](https://github.com/ionelmc/django-redisboard)
+* [Lazy loading below the fold (Peter Bengtsson)](http://www.peterbe.com/plog/lazy-loading-below-the-fold)
 
 **Music**
