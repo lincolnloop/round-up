@@ -2,6 +2,11 @@
 
 *October 28th, 2013*
 
+**Download**
+
+[AAC - 1:04:29 - 30.6 MB](http://django-round-up.s3.amazonaws.com/Death%20Defying%20Lifelines.m4a)
+
+[MP3 - 1:04:29 - 29.6 MB](http://django-round-up.s3.amazonaws.com/Death%20Defying%20Lifelines.mp3)
 
 **Guest**
 
