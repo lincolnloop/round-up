@@ -13,3 +13,4 @@ Mahdi Yusuf
 * [Connector/Python Django Backend (MySQL)](https://dev.mysql.com/doc/connector-python/en/connector-python-django-backend.html)
 * [django-nomad-notifier (Nomadblue)](http://django-nomad-notifier.readthedocs.org/en/latest/)
 * [Using strace to Debug Stuck Celery Tasks (Tobias McNulty)](http://www.caktusgroup.com/blog/2013/10/30/using-strace-debug-stuck-celery-tasks/)
+* [django-transadmin (Vincent Agnano)](https://github.com/vinyll/django-transadmin)
