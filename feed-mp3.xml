@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>We Don't Know All The Things</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Our guest this week is Laura Cassell, software engineer/instructor at Big Nerd Ranch and founder of Pyladies Atlanta!</itunes:summary>
+            <description>Our guest this week is Laura Cassell, software engineer/instructor at Big Nerd Ranch and founder of Pyladies Atlanta!</description>
+            <enclosure url="http://django-round-up.s3.amazonaws.com/We%20Dont%20Know%20All%20the%20Things.mp3" length="38086040" type="audio/mpeg" />
+            <guid>we-dont-know-all-the-things</guid>
+            <link>http://roundup.lincolnloop.com/#we-dont-know-all-the-things</link>
+            <pubDate>Mon, 04 Nov 2013 16:00:00 GMT</pubDate>
+            <itunes:duration>1:19:15</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>Death Defying Lifelines</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Our guest this week is Clinton Blackburn, photographer, aerial silks person, and software engineer for Kyruus in Cambridge, Mass.</itunes:summary>
