@@ -20,8 +20,8 @@
         <item>
             <title>Worksforme</title>
             <itunes:author>Lincoln Loop</itunes:author>
-            <itunes:summary>Our guest this week is Jacob Kaplan Moss, co-creator of Django, founder of the Django Software Foundation, currently working at Heroku.</itunes:summary>
-            <description>Our guest this week is Laura Cassell, software engineer/instructor at Big Nerd Ranch and founder of Pyladies Atlanta!</description>
+            <itunes:summary>Our guest this week is Jacob Kaplan Moss, co-creator of Django, founder of the Django Software Foundation, currently working at Heroku. Listen as we constantly interrupt each other due to connection issues!</itunes:summary>
+            <description>Our guest this week is Jacob Kaplan Moss, co-creator of Django, founder of the Django Software Foundation, currently working at Heroku. Listen as we constantly interrupt each other due to connection issues!</description>
             <enclosure url="http://django-round-up.s3.amazonaws.com/Worksforme.m4a" length="34084097" type="audio/x-m4a" />
             <guid>worksforme</guid>
             <link>http://roundup.lincolnloop.com/#worksforme</link>
