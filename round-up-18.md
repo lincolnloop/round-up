@@ -1,10 +1,21 @@
 # Django Round-Up #18
 
-*November 7, 2013*
+*November 11th, 2013*
+
+**Download**
+
+[AAC - 1:08:35 - 34.1 MB](http://django-round-up.s3.amazonaws.com/Worksforme.m4a)
+
+[MP3 - 1:08:35 - 33 MB](http://django-round-up.s3.amazonaws.com/Worksforme.mp3)
 
 **Guest**
 
 Jacob Kaplan-Moss
+
+* Co-creator of Django
+* Founder of the Django Software Foundation
+* Frequent speaker at Open Source events and conferences
+* Currently works at Heroku
 
 **Links**
 
@@ -19,3 +30,5 @@ Jacob Kaplan-Moss
 * [Lazy loading below the fold (Peter Bengtsson)](http://www.peterbe.com/plog/lazy-loading-below-the-fold)
 
 **Music**
+
+Our theme song is [Monte](http://freemusicarchive.org/music/Mermonte/Mermonte/Mermonte_-_Monte) by [Mermonte](http://mermonte.com/)
