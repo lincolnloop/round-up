@@ -18,6 +18,18 @@
             <itunes:category text="Tech News"/>
         </itunes:category>
         <item>
+            <title>Worksforme</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Our guest this week is Jacob Kaplan Moss, co-creator of Django, founder of the Django Software Foundation, currently working at Heroku.</itunes:summary>
+            <description>Our guest this week is Laura Cassell, software engineer/instructor at Big Nerd Ranch and founder of Pyladies Atlanta!</description>
+            <enclosure url="http://django-round-up.s3.amazonaws.com/Worksforme.m4a" length="34084097" type="audio/x-m4a" />
+            <guid>worksforme</guid>
+            <link>http://roundup.lincolnloop.com/#worksforme</link>
+            <pubDate>Mon, 11 Nov 2013 16:00:00 GMT</pubDate>
+            <itunes:duration>1:08:35</itunes:duration>
+            <itunes:keywords>django, python, web development</itunes:keywords>
+        </item>
+        <item>
             <title>We Don't Know All The Things</title>
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Our guest this week is Laura Cassell, software engineer/instructor at Big Nerd Ranch and founder of Pyladies Atlanta!</itunes:summary>
